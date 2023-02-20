@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=076D8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Bondezam;I'm+18+years+old;I'm+from+Brazil;Future+software+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IgorBondezam&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -45,6 +46,8 @@
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
 </div>
 
+##
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IgorBondezam}/count.svg" /></p> 
