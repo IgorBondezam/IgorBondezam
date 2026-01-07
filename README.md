@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Igor Bondezam
 
-Sou **Software Engineer** com foco em **Java e Spring Boot**, atuando como **Full Stack Developer** com **Angular e TypeScript**.  
+Sou **Engenheiro de Software** com foco em **Java e Spring Boot**, atuando como **Desenvolvedor Full Stack** com **Angular e TypeScript**.  
 Gosto de construir aplicações bem estruturadas, aplicando boas práticas de engenharia de software e evoluindo constantemente como desenvolvedor.
 
 ### 💡 Sobre mim  
