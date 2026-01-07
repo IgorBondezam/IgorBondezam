@@ -1,61 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=283747&height=120&section=header"/>
+## 👋 Olá, eu sou o Igor Bondezam
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=076D8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Bondezam;I'm+20+years+old;I'm+from+Brazil;Future+software+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Sou **Software Engineer** com foco em **Java e Spring Boot**, atuando como **Full Stack Developer** com **Angular e TypeScript**.  
+Gosto de construir aplicações bem estruturadas, aplicando boas práticas de engenharia de software e evoluindo constantemente como desenvolvedor.
 
-##
+### 💡 Sobre mim  
+☕ Gosto de código limpo, boas arquiteturas e resolver problemas reais.  
+🧠 Sempre evoluindo em Java, Spring Boot e desenvolvimento web moderno.  
+🛠️ Apaixonado por construir aplicações escaláveis e sustentáveis.  
+📚 Aprendizado contínuo, transformando estudos em projetos práticos.  
+🎹 Entusiasta de piano no tempo livre, explorando harmonia e progressões de acordes.
 
+🚀 Sempre aberto a novos desafios e oportunidades para crescer profissionalmente.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorBondezam&show_icons=true&count_private=true&hide_border=true&title_color=2993D8&icon_color=41ADF4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBondezam&layout=compact&hide_border=true&title_color=2993D&text_color=41ADF4&bg_color=0d1117" />
-</div>
+---
 
+## 👋 Hi, I'm Igor Bondezam
+
+I'm a **Software Engineer** focused on **Java and Spring Boot**, working as a **Full Stack Developer** with **Angular and TypeScript**.  
+I enjoy building well-structured applications, applying good software engineering practices and continuously improving my skills.
+
+### 💡 About me  
+☕ I enjoy clean code, solid architectures, and solving real-world problems.  
+🧠 Always improving my skills in Java, Spring Boot, and modern web development.  
+🛠️ Passionate about building scalable and maintainable applications.  
+📚 Constant learner, turning studies into practical projects.  
+🎹 Piano enthusiast in my free time, exploring harmony and chord progressions.
+
+🚀 Always open to new challenges and opportunities to grow as a developer.
+
+---
 
 <div align="center"> 
-<a href="https://www.instagram.com/igor_bondezam/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/igor_bondezam/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCqvUT0OOuwNWzEru6xw865w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/igor-bondezam-fran%C3%A7a-48364920a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-   
- ##
-   
- ### Main skills:
-  <div style="display: inline_block" align="start"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
-
-
-
-### Studying in this moment:
-<div style="display: inline_block" align="start"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-</div>
-
-##
-  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{IgorBondezam}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=283747&height=120&section=footer"/>
-
-
